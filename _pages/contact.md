@@ -1,18 +1,17 @@
 ---
+layout: archive
 permalink: /contact/
 title: "Contact me"
 author_profile: true
-redirect_from:
-  - /contact/
 ---
 
-**Address**
-Building 34, The Department of Medical Education (Third floor),
-College of Medicine
-King Saud University
-KSA
+**Address:**
+<address>
+  The Department of Medical Education (Third floor, Building 34, College of Medicine)<br /> King Saud University, Riyadh<br /> KSA
+</address>
 
-**Email**
+
+**Email:**
 sbinkheder@ksu.edu.sa
 
 
