@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to this page!
+The site development is in progress!
 
 Header 1
 ======
