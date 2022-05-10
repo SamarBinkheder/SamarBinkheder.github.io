@@ -1,13 +1,10 @@
 ---
-layout: archive
-title: "Contact me"
 permalink: /contact/
+title: "Contact me"
 author_profile: true
 redirect_from:
   - /contact/
 ---
-
-{% include base_path %}
 
 **Address**
 Building 34, The Department of Medical Education (Third floor),
