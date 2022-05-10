@@ -21,5 +21,4 @@ Test
 **Header 3**
 Test
 
-#![Editing a markdown file for a talk](/images/editing-talk.png)
 
