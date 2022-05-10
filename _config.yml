@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samar Binkheder Personal Page"
+title                    : "Samar Binkheder/Personal Page"
 title_separator          : "-"
 name                     : &name "Dr. Samar Binkheder"
 description              : &description "Soon"
@@ -83,7 +83,7 @@ author:
   name             : "Dr. Samar Binkheder"
   avatar           : "profile.png"
   bio              : "Soon"
-  location         : "https://goo.gl/maps/6EEeeqg15VbSVuuJ8"
+  location         :
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Samar+Binkheder"
   googlescholar    : "https://scholar.google.com/citations?user=8w0UsjwAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
