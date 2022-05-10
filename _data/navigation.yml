@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Homes"
+  - title: "Home"
     url: /about/
 
   - title: "Publications"
@@ -14,4 +14,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Contact"
+    url: /contact/
