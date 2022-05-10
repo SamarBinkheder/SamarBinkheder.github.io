@@ -1,4 +1,3 @@
-
 ---
 title: "Analyzing Patterns of Literature-Based Phenotyping Definitions for Text Mining Applications"
 collection: publications
@@ -8,3 +7,6 @@ date: 2018-06-26
 venue: '2018 IEEE International Conference on Healthcare Informatics (ICHI)'
 paperurl: 'https://scholarworks.iupui.edu/bitstream/handle/1805/18757/Binkheder_2018_analyzing.pdf?sequence=1'
 citation: 'S. Binkheder, H. -Y. Wu, S. Quinney and L. Li, "Analyzing Patterns of Literature-Based Phenotyping Definitions for Text Mining Applications," <i>2018 IEEE International Conference on Healthcare Informatics (ICHI)</i>, 2018, pp. 374-376, doi: 10.1109/ICHI.2018.00061.'
+
+---
+[Download paper here](https://scholarworks.iupui.edu/bitstream/handle/1805/18757/Binkheder_2018_analyzing.pdf?sequence=1)
