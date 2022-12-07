@@ -1,0 +1,2 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url
+2022-10-01	PhenoDEF: a corpus for annotating sentences with information of phenotype definitions in biomedical literature	Journal of Biomedical Semantics volume	This paper is about the number 1. The number 2 is left for future work.	Binkheder, Samar. (2022). "PhenoDEF: a corpus for annotating sentences with information of phenotype definitions in biomedical literature." <i>Journal of Biomedical Semantics</i>. 13(17).	paper-title-number-1	http://SamarBinkheder.github.io/files/PhenoDEF.pdf
